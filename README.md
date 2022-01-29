@@ -10,6 +10,8 @@
 6. A la ligne 42 -> remplacer ``REMPLACE MOI`` par votre Steam Web Api Key. (https://steamcommunity.com/dev/apikey)
 7. A la ligne 43 -> remplacer ``REMPLACE MOI`` par votre Clé License FiveM. (https://keymaster.fivem.net/)
 
+# Discord Support : https://discord.gg/j4ywQ5puXU
+
 # [Tuto EN] 
 
 1. Go to the ``server.cfg``
@@ -19,3 +21,6 @@
 5. At line 40 -> replace ``IP SANS PORT`` by your server IP.
 6. At line 42 -> replace ``REMPLACE MOI`` with your Steam Web Api Key. (https://steamcommunity.com/dev/apikey)
 7. At line 43 -> replace ``REMPLACE MOI`` with your FiveM License Key. (https://keymaster.fivem.net/)
+
+
+# Discord Support : https://discord.gg/j4ywQ5puXU
