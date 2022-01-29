@@ -1,4 +1,4 @@
-# Anas_server.cfg | Template server.cfg  FiveM by Anas36#2022
+# Template server.cfg  FiveM by Anas36#2022
 
 # [Tuto FR]
 
